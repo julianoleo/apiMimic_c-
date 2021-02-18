@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DowtUL3M3Zm72c5pvDPHwaUgCItfahONe38Qmg9e75w1xBAv20UiMmrh/iNxd5uw+2g4JtfsKFoqeK+siAhT/g==",
+  "dgSpecHash": "Hg/tPZGRL3c+kwXweyd2I6CZrdtxZqcxMuQ8HU3aTdUV+NlcLBhedHd+kLfchGtVg7KB7PNs6Lt1Tg+p0VhYZw==",
   "success": true,
-  "projectFilePath": "C:\\API C#\\C#\\MimicAPI\\MimicAPI\\MimicAPI.csproj",
+  "projectFilePath": "C:\\API C#\\C#\\apiMimic_c-\\MimicAPI\\MimicAPI\\MimicAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Juliano.QUALITY\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Juliano.QUALITY\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

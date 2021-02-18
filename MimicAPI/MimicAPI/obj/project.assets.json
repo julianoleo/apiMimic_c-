@@ -1227,11 +1227,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\API C#\\C#\\MimicAPI\\MimicAPI\\MimicAPI.csproj",
+      "projectUniqueName": "C:\\API C#\\C#\\apiMimic_c-\\MimicAPI\\MimicAPI\\MimicAPI.csproj",
       "projectName": "MimicAPI",
-      "projectPath": "C:\\API C#\\C#\\MimicAPI\\MimicAPI\\MimicAPI.csproj",
+      "projectPath": "C:\\API C#\\C#\\apiMimic_c-\\MimicAPI\\MimicAPI\\MimicAPI.csproj",
       "packagesPath": "C:\\Users\\Juliano.QUALITY\\.nuget\\packages\\",
-      "outputPath": "C:\\API C#\\C#\\MimicAPI\\MimicAPI\\obj\\",
+      "outputPath": "C:\\API C#\\C#\\apiMimic_c-\\MimicAPI\\MimicAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Juliano.QUALITY\\AppData\\Roaming\\NuGet\\NuGet.Config",
