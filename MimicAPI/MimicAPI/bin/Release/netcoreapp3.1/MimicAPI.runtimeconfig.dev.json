@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Juliano.QUALITY\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Juliano.QUALITY\\.nuget\\packages"
+    ]
+  }
+}
